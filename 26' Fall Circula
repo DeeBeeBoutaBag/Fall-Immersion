@@ -1,0 +1,391 @@
+Fall Curriculum Unit Plan
+
+Web Development, Artificial Intelligence, Radical Social Entrepreneurship, and Leadership
+
+Overview
+
+This Fall Quarter, our Geniuses will continue developing their technical and entrepreneurial skills through web development, Artificial Intelligence, Radical Social Entrepreneurship, and Leadership. Geniuses will focus on HTML/CSS, JavaScript, AI assisted product development, and Flask while building a responsive website connected to their Radical Social Entrepreneurship business.
+
+Artificial Intelligence will be taught as a practical tool that supports the development process. Geniuses will learn how to prompt effectively, use AI for product research and planning, review and debug code, test ideas, improve user experience, and strengthen the overall quality of their product. The expectation is that AI supports the work rather than completing the work for them. Geniuses should understand the code, decisions, and final product they create.
+
+Geniuses will also continue developing their Radical Social Entrepreneurship businesses by learning how to build financially sustainable ideas, create marketing strategies, develop strong teams, and understand legal structures. Leadership lessons will continue to focus on personal development, financial literacy, education, global community, the Black diaspora, and manhood development.
+
+Key Assignments
+
+JavaScript
+
+Counter App
+
+Dark Mode App
+
+Modal / Pop Up App
+
+Form Data Submission App
+
+Event Handling App
+
+Artificial Intelligence
+
+Prompt Engineering Practice
+
+AI Product Research and Planning
+
+AI Assisted Coding and Debugging
+
+AI Product Review and Testing
+
+AI Development Log
+
+Flask
+
+Integrate Final Website
+
+Add User Database
+
+Radical Social Entrepreneurship
+
+Financial Planning
+
+Creating a Marketing Plan
+
+Team Building Exercise
+
+Choosing a Legal Structure
+
+Unit Plan
+
+JavaScript
+
+Day
+
+Lesson Description
+
+Link / Assignment
+
+3
+
+Intro into JavaScript: variables, data types, and operators. Build a Counter Button.
+
+Counter App
+
+4
+
+JavaScript fundamentals continued. Use event listeners and simple interactions to build a Dark Mode feature.
+
+Dark Mode App
+
+5
+
+JavaScript animations and interactive components. Build a modal or pop up feature.
+
+Modal / Pop Ups App
+
+6
+
+Functions, loops, and conditionals. Use form inputs and process submitted data.
+
+Form Data Submission App
+
+7
+
+DOM manipulation and event handling. Build an interactive feature that responds to user actions.
+
+Event Handling App
+
+8
+
+Review JavaScript fundamentals and add one or more JavaScript features to the final website.
+
+Website Integration
+
+Artificial Intelligence
+
+Day
+
+Lesson Description
+
+Link / Assignment
+
+9
+
+Intro into AI and Prompt Engineering. Learn how context, task, requirements, examples, and expected output affect an AI response. Geniuses will practice writing prompts connected to their own product.
+
+Prompt Engineering Practice
+
+10
+
+AI for Product Development. Use AI to review the problem, target user, feature list, user flow, and overall product direction. Geniuses will compare AI recommendations with their own ideas and decide what should be used.
+
+AI Product Research and Planning
+
+11
+
+AI Assisted Coding and Debugging. Use AI to explain errors, review code, suggest solutions, and help develop small features. Geniuses are responsible for testing and understanding any code added to their project.
+
+AI Coding and Debugging Practice
+
+12
+
+AI for Product Testing and Improvement. Use AI to review the product from a user perspective, identify weaknesses, improve content and user experience, and prepare the website for Flask integration. Introduce responsible AI use and documentation.
+
+AI Product Review and AI Development Log
+
+Flask
+
+Day
+
+Lesson Description
+
+Link / Assignment
+
+13
+
+Intro into Flask: set up the Flask environment, create routes, and work with templates.
+
+Flask Setup
+
+14
+
+Integrate the existing website into Flask.
+
+Website Integration
+
+15
+
+Add static objects, organize project files, and clean up code.
+
+Project Organization
+
+16
+
+Connect Flask with a database using SQLAlchemy.
+
+Database Integration
+
+17
+
+Flask user authentication and sessions.
+
+Authentication and Sessions
+
+18
+
+Complete website features and prepare final product pitch.
+
+Final Build and Pitch Preparation
+
+19
+
+Present final Flask website and Radical Social Entrepreneurship business.
+
+Final Presentation
+
+Radical Social Entrepreneurship
+
+Day
+
+Lesson Description
+
+Link / Assignment
+
+1
+
+Understanding Financial Sustainability
+
+Lesson Plan
+
+2
+
+Marketing and Scaling Social Impact
+
+Lesson Plan
+
+3
+
+Building a Strong Team and Organizational Culture
+
+Lesson Plan
+
+4
+
+Legal Structures and Compliance for Social Enterprises
+
+Lesson Plan
+
+Leadership
+
+Holistic Health and Wellness
+
+Day
+
+Lesson Description
+
+1
+
+Time Management
+
+2
+
+Growth vs Fixed Mindset
+
+3
+
+Being Present
+
+4
+
+Trust and Love
+
+Financial Literacy
+
+Day
+
+Lesson Description
+
+1
+
+Capitalism
+
+2
+
+The Art of Negotiation: Mastering Money Talks
+
+3
+
+The Art of Networking
+
+4
+
+Taxes and Paychecks: Who Really Gets Paid
+
+Educational System
+
+Day
+
+Lesson Description
+
+1
+
+Equity vs Equality and Justice
+
+2
+
+College 101: Is It Really Worth It?
+
+3
+
+Non Traditional Education and World Education
+
+Global Community and Governments
+
+Day
+
+Lesson Description
+
+1
+
+The Matrix
+
+2
+
+What Is the Black Diaspora?
+
+3
+
+World Governments and Their Effects on the Black Diaspora
+
+4
+
+World Leaders: Learning From the Best
+
+Full Circle
+
+Day
+
+Lesson Description
+
+1
+
+Manhood Development Part 1
+
+2
+
+Manhood Development Part 2
+
+3
+
+The Four Agreements
+
+4
+
+It Is Your Life
+
+Artificial Intelligence Expectations
+
+The AI unit is designed to support the technical and product development work already happening throughout the quarter. Geniuses should use AI as a tool for thinking, building, reviewing, and improving their work.
+
+Geniuses should be able to explain any AI generated code used in their project.
+
+AI generated code should be tested before being added to the final product.
+
+Important information produced by AI should be reviewed and verified.
+
+Private or sensitive information should not be entered into AI tools.
+
+AI recommendations should be treated as suggestions. The Genius or team is responsible for the final decision.
+
+Each team will keep an AI Development Log with at least five meaningful examples showing how AI supported the project.
+
+AI Development Log
+
+Prompt or Question
+
+AI Recommendation
+
+What We Used or Changed
+
+Why
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Final Project Connection
+
+By the end of the quarter, each Genius or team should have a functional Flask based web application connected to a Radical Social Entrepreneurship business. The final product should demonstrate technical development, a clear target user, a meaningful problem or need, a realistic business direction, and thoughtful use of AI throughout the development process.
